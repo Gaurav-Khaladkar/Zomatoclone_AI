@@ -6,6 +6,11 @@ A Zomato-style food ordering application built as a self-contained frontend. It 
 
 Open `index.html` in a browser. No build step is required.
 
+## Project Docs
+
+- [Complete project overview](docs/ZOMATO_APPLICATION_OVERVIEW.md)
+- [Simplified database schema](database/schema.sql)
+
 ## Notes
 
 - Data is local mock data in `app.js`.
